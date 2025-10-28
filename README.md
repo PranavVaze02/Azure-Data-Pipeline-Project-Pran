@@ -1,2 +1,2 @@
-# Azure-Data-Pipeline-Project-Pran
-Azure Data  Pipeline
+# Azure Data Pipeline Project
+Initial commit for Azure Data Factory integration
